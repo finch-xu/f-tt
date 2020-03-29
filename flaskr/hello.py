@@ -99,6 +99,8 @@ def convert_file(filename):
 def download(filename):
     return send_from_directory(r"convert", filename=filename, as_attachment=True)
 
+if __name__=="__main__":
+    app.run()
 
 
 
