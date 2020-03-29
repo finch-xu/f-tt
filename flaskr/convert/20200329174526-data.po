@@ -1,0 +1,1746 @@
+#. extracted from uploads\20200329174526-data.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-29 17:45+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.0\n"
+
+#: .city[0].title
+msgid "A"
+msgstr ""
+
+#: .city[0].lists[0]
+msgid "阿坝"
+msgstr ""
+
+#: .city[0].lists[1]
+msgid "阿拉善"
+msgstr ""
+
+#: .city[0].lists[2]
+msgid "阿里"
+msgstr ""
+
+#: .city[0].lists[3]
+msgid "安康"
+msgstr ""
+
+#: .city[0].lists[4]
+msgid "安庆"
+msgstr ""
+
+#: .city[0].lists[5]
+msgid "鞍山"
+msgstr ""
+
+#: .city[0].lists[6]
+msgid "安顺"
+msgstr ""
+
+#: .city[0].lists[7]
+msgid "安阳"
+msgstr ""
+
+#: .city[0].lists[8]
+msgid "澳门"
+msgstr ""
+
+#: .city[1].title
+msgid "B"
+msgstr ""
+
+#: .city[1].lists[0]
+msgid "北京"
+msgstr ""
+
+#: .city[1].lists[1]
+msgid "白银"
+msgstr ""
+
+#: .city[1].lists[2]
+msgid "保定"
+msgstr ""
+
+#: .city[1].lists[3]
+msgid "宝鸡"
+msgstr ""
+
+#: .city[1].lists[4]
+msgid "保山"
+msgstr ""
+
+#: .city[1].lists[5]
+msgid "包头"
+msgstr ""
+
+#: .city[1].lists[6]
+msgid "巴中"
+msgstr ""
+
+#: .city[1].lists[7]
+msgid "北海"
+msgstr ""
+
+#: .city[1].lists[8]
+msgid "蚌埠"
+msgstr ""
+
+#: .city[1].lists[9]
+msgid "本溪"
+msgstr ""
+
+#: .city[1].lists[10]
+msgid "毕节"
+msgstr ""
+
+#: .city[1].lists[11]
+msgid "滨州"
+msgstr ""
+
+#: .city[1].lists[12]
+msgid "百色"
+msgstr ""
+
+#: .city[1].lists[13]
+msgid "亳州"
+msgstr ""
+
+#: .city[2].title
+msgid "C"
+msgstr ""
+
+#: .city[2].lists[0]
+msgid "重庆"
+msgstr ""
+
+#: .city[2].lists[1]
+msgid "成都"
+msgstr ""
+
+#: .city[2].lists[2]
+msgid "长沙"
+msgstr ""
+
+#: .city[2].lists[3]
+msgid "长春"
+msgstr ""
+
+#: .city[2].lists[4]
+msgid "沧州"
+msgstr ""
+
+#: .city[2].lists[5]
+msgid "常德"
+msgstr ""
+
+#: .city[2].lists[6]
+msgid "昌都"
+msgstr ""
+
+#: .city[2].lists[7]
+msgid "长治"
+msgstr ""
+
+#: .city[2].lists[8]
+msgid "常州"
+msgstr ""
+
+#: .city[2].lists[9]
+msgid "巢湖"
+msgstr ""
+
+#: .city[2].lists[10]
+msgid "潮州"
+msgstr ""
+
+#: .city[2].lists[11]
+msgid "承德"
+msgstr ""
+
+#: .city[2].lists[12]
+msgid "郴州"
+msgstr ""
+
+#: .city[2].lists[13]
+msgid "赤峰"
+msgstr ""
+
+#: .city[2].lists[14]
+msgid "池州"
+msgstr ""
+
+#: .city[2].lists[15]
+msgid "崇左"
+msgstr ""
+
+#: .city[2].lists[16]
+msgid "楚雄"
+msgstr ""
+
+#: .city[2].lists[17]
+msgid "滁州"
+msgstr ""
+
+#: .city[2].lists[18]
+msgid "朝阳"
+msgstr ""
+
+#: .city[3].title
+msgid "D"
+msgstr ""
+
+#: .city[3].lists[0]
+msgid "大连"
+msgstr ""
+
+#: .city[3].lists[1]
+msgid "东莞"
+msgstr ""
+
+#: .city[3].lists[2]
+msgid "大理"
+msgstr ""
+
+#: .city[3].lists[3]
+msgid "丹东"
+msgstr ""
+
+#: .city[3].lists[4]
+msgid "大庆"
+msgstr ""
+
+#: .city[3].lists[5]
+msgid "大同"
+msgstr ""
+
+#: .city[3].lists[6]
+msgid "大兴安岭"
+msgstr ""
+
+#: .city[3].lists[7]
+msgid "德宏"
+msgstr ""
+
+#: .city[3].lists[8]
+msgid "德阳"
+msgstr ""
+
+#: .city[3].lists[9]
+msgid "德州"
+msgstr ""
+
+#: .city[3].lists[10]
+msgid "定西"
+msgstr ""
+
+#: .city[3].lists[11]
+msgid "迪庆"
+msgstr ""
+
+#: .city[3].lists[12]
+msgid "东营"
+msgstr ""
+
+#: .city[4].title
+msgid "E"
+msgstr ""
+
+#: .city[4].lists[0]
+msgid "鄂尔多斯"
+msgstr ""
+
+#: .city[4].lists[1]
+msgid "恩施"
+msgstr ""
+
+#: .city[4].lists[2]
+msgid "鄂州"
+msgstr ""
+
+#: .city[5].title
+msgid "F"
+msgstr ""
+
+#: .city[5].lists[0]
+msgid "福州"
+msgstr ""
+
+#: .city[5].lists[1]
+msgid "防城港"
+msgstr ""
+
+#: .city[5].lists[2]
+msgid "佛山"
+msgstr ""
+
+#: .city[5].lists[3]
+msgid "抚顺"
+msgstr ""
+
+#: .city[5].lists[4]
+msgid "抚州"
+msgstr ""
+
+#: .city[5].lists[5]
+msgid "阜新"
+msgstr ""
+
+#: .city[5].lists[6]
+msgid "阜阳"
+msgstr ""
+
+#: .city[6].title
+msgid "G"
+msgstr ""
+
+#: .city[6].lists[0]
+msgid "广州"
+msgstr ""
+
+#: .city[6].lists[1]
+msgid "桂林"
+msgstr ""
+
+#: .city[6].lists[2]
+msgid "贵阳"
+msgstr ""
+
+#: .city[6].lists[3]
+msgid "甘南"
+msgstr ""
+
+#: .city[6].lists[4]
+msgid "赣州"
+msgstr ""
+
+#: .city[6].lists[5]
+msgid "甘孜"
+msgstr ""
+
+#: .city[6].lists[6]
+msgid "广安"
+msgstr ""
+
+#: .city[6].lists[7]
+msgid "广元"
+msgstr ""
+
+#: .city[6].lists[8]
+msgid "贵港"
+msgstr ""
+
+#: .city[6].lists[9]
+msgid "果洛"
+msgstr ""
+
+#: .city[7].title
+msgid "H"
+msgstr ""
+
+#: .city[7].lists[0]
+msgid "杭州"
+msgstr ""
+
+#: .city[7].lists[1]
+msgid "哈尔滨"
+msgstr ""
+
+#: .city[7].lists[2]
+msgid "合肥"
+msgstr ""
+
+#: .city[7].lists[3]
+msgid "海口"
+msgstr ""
+
+#: .city[7].lists[4]
+msgid "呼和浩特"
+msgstr ""
+
+#: .city[7].lists[5]
+msgid "海北"
+msgstr ""
+
+#: .city[7].lists[6]
+msgid "海东"
+msgstr ""
+
+#: .city[7].lists[7]
+msgid "海南"
+msgstr ""
+
+#: .city[7].lists[8]
+msgid "海西"
+msgstr ""
+
+#: .city[7].lists[9]
+msgid "邯郸"
+msgstr ""
+
+#: .city[7].lists[10]
+msgid "汉中"
+msgstr ""
+
+#: .city[7].lists[11]
+msgid "鹤壁"
+msgstr ""
+
+#: .city[7].lists[12]
+msgid "河池"
+msgstr ""
+
+#: .city[7].lists[13]
+msgid "鹤岗"
+msgstr ""
+
+#: .city[7].lists[14]
+msgid "黑河"
+msgstr ""
+
+#: .city[7].lists[15]
+msgid "衡水"
+msgstr ""
+
+#: .city[7].lists[16]
+msgid "衡阳"
+msgstr ""
+
+#: .city[7].lists[17]
+msgid "河源"
+msgstr ""
+
+#: .city[7].lists[18]
+msgid "贺州"
+msgstr ""
+
+#: .city[7].lists[19]
+msgid "红河"
+msgstr ""
+
+#: .city[7].lists[20]
+msgid "淮安"
+msgstr ""
+
+#: .city[7].lists[21]
+msgid "淮北"
+msgstr ""
+
+#: .city[7].lists[22]
+msgid "怀化"
+msgstr ""
+
+#: .city[7].lists[23]
+msgid "淮南"
+msgstr ""
+
+#: .city[7].lists[24]
+msgid "黄冈"
+msgstr ""
+
+#: .city[7].lists[25]
+msgid "黄南"
+msgstr ""
+
+#: .city[7].lists[26]
+msgid "黄山"
+msgstr ""
+
+#: .city[7].lists[27]
+msgid "黄石"
+msgstr ""
+
+#: .city[7].lists[28]
+msgid "惠州"
+msgstr ""
+
+#: .city[7].lists[29]
+msgid "葫芦岛"
+msgstr ""
+
+#: .city[7].lists[30]
+msgid "呼伦贝尔"
+msgstr ""
+
+#: .city[7].lists[31]
+msgid "湖州"
+msgstr ""
+
+#: .city[7].lists[32]
+msgid "菏泽"
+msgstr ""
+
+#: .city[8].title
+msgid "J"
+msgstr ""
+
+#: .city[8].lists[0]
+msgid "济南"
+msgstr ""
+
+#: .city[8].lists[1]
+msgid "佳木斯"
+msgstr ""
+
+#: .city[8].lists[2]
+msgid "吉安"
+msgstr ""
+
+#: .city[8].lists[3]
+msgid "江门"
+msgstr ""
+
+#: .city[8].lists[4]
+msgid "焦作"
+msgstr ""
+
+#: .city[8].lists[5]
+msgid "嘉兴"
+msgstr ""
+
+#: .city[8].lists[6]
+msgid "嘉峪关"
+msgstr ""
+
+#: .city[8].lists[7]
+msgid "揭阳"
+msgstr ""
+
+#: .city[8].lists[8]
+msgid "吉林"
+msgstr ""
+
+#: .city[8].lists[9]
+msgid "金昌"
+msgstr ""
+
+#: .city[8].lists[10]
+msgid "晋城"
+msgstr ""
+
+#: .city[8].lists[11]
+msgid "景德镇"
+msgstr ""
+
+#: .city[8].lists[12]
+msgid "荆门"
+msgstr ""
+
+#: .city[8].lists[13]
+msgid "荆州"
+msgstr ""
+
+#: .city[8].lists[14]
+msgid "金华"
+msgstr ""
+
+#: .city[8].lists[15]
+msgid "济宁"
+msgstr ""
+
+#: .city[8].lists[16]
+msgid "晋中"
+msgstr ""
+
+#: .city[8].lists[17]
+msgid "锦州"
+msgstr ""
+
+#: .city[8].lists[18]
+msgid "九江"
+msgstr ""
+
+#: .city[8].lists[19]
+msgid "酒泉"
+msgstr ""
+
+#: .city[9].title
+msgid "K"
+msgstr ""
+
+#: .city[9].lists[0]
+msgid "昆明"
+msgstr ""
+
+#: .city[9].lists[1]
+msgid "开封"
+msgstr ""
+
+#: .city[10].title
+msgid "L"
+msgstr ""
+
+#: .city[10].lists[0]
+msgid "兰州"
+msgstr ""
+
+#: .city[10].lists[1]
+msgid "拉萨"
+msgstr ""
+
+#: .city[10].lists[2]
+msgid "来宾"
+msgstr ""
+
+#: .city[10].lists[3]
+msgid "莱芜"
+msgstr ""
+
+#: .city[10].lists[4]
+msgid "廊坊"
+msgstr ""
+
+#: .city[10].lists[5]
+msgid "乐山"
+msgstr ""
+
+#: .city[10].lists[6]
+msgid "凉山"
+msgstr ""
+
+#: .city[10].lists[7]
+msgid "连云港"
+msgstr ""
+
+#: .city[10].lists[8]
+msgid "聊城"
+msgstr ""
+
+#: .city[10].lists[9]
+msgid "辽阳"
+msgstr ""
+
+#: .city[10].lists[10]
+msgid "辽源"
+msgstr ""
+
+#: .city[10].lists[11]
+msgid "丽江"
+msgstr ""
+
+#: .city[10].lists[12]
+msgid "临沧"
+msgstr ""
+
+#: .city[10].lists[13]
+msgid "临汾"
+msgstr ""
+
+#: .city[10].lists[14]
+msgid "临夏"
+msgstr ""
+
+#: .city[10].lists[15]
+msgid "临沂"
+msgstr ""
+
+#: .city[10].lists[16]
+msgid "林芝"
+msgstr ""
+
+#: .city[10].lists[17]
+msgid "丽水"
+msgstr ""
+
+#: .city[10].lists[18]
+msgid "六安"
+msgstr ""
+
+#: .city[10].lists[19]
+msgid "六盘水"
+msgstr ""
+
+#: .city[10].lists[20]
+msgid "柳州"
+msgstr ""
+
+#: .city[10].lists[21]
+msgid "陇南"
+msgstr ""
+
+#: .city[10].lists[22]
+msgid "龙岩"
+msgstr ""
+
+#: .city[10].lists[23]
+msgid "娄底"
+msgstr ""
+
+#: .city[10].lists[24]
+msgid "漯河"
+msgstr ""
+
+#: .city[10].lists[25]
+msgid "洛阳"
+msgstr ""
+
+#: .city[10].lists[26]
+msgid "泸州"
+msgstr ""
+
+#: .city[10].lists[27]
+msgid "吕梁"
+msgstr ""
+
+#: .city[11].title
+msgid "M"
+msgstr ""
+
+#: .city[11].lists[0]
+msgid "马鞍山"
+msgstr ""
+
+#: .city[11].lists[1]
+msgid "茂名"
+msgstr ""
+
+#: .city[11].lists[2]
+msgid "眉山"
+msgstr ""
+
+#: .city[11].lists[3]
+msgid "梅州"
+msgstr ""
+
+#: .city[11].lists[4]
+msgid "绵阳"
+msgstr ""
+
+#: .city[11].lists[5]
+msgid "牡丹江"
+msgstr ""
+
+#: .city[12].title
+msgid "N"
+msgstr ""
+
+#: .city[12].lists[0]
+msgid "南京"
+msgstr ""
+
+#: .city[12].lists[1]
+msgid "南昌"
+msgstr ""
+
+#: .city[12].lists[2]
+msgid "南宁"
+msgstr ""
+
+#: .city[12].lists[3]
+msgid "宁波"
+msgstr ""
+
+#: .city[12].lists[4]
+msgid "南充"
+msgstr ""
+
+#: .city[12].lists[5]
+msgid "南平"
+msgstr ""
+
+#: .city[12].lists[6]
+msgid "南通"
+msgstr ""
+
+#: .city[12].lists[7]
+msgid "南阳"
+msgstr ""
+
+#: .city[12].lists[8]
+msgid "那曲"
+msgstr ""
+
+#: .city[12].lists[9]
+msgid "内江"
+msgstr ""
+
+#: .city[12].lists[10]
+msgid "宁德"
+msgstr ""
+
+#: .city[12].lists[11]
+msgid "怒江"
+msgstr ""
+
+#: .city[13].title
+msgid "P"
+msgstr ""
+
+#: .city[13].lists[0]
+msgid "盘锦"
+msgstr ""
+
+#: .city[13].lists[1]
+msgid "攀枝花"
+msgstr ""
+
+#: .city[13].lists[2]
+msgid "平顶山"
+msgstr ""
+
+#: .city[13].lists[3]
+msgid "平凉"
+msgstr ""
+
+#: .city[13].lists[4]
+msgid "萍乡"
+msgstr ""
+
+#: .city[13].lists[5]
+msgid "莆田"
+msgstr ""
+
+#: .city[13].lists[6]
+msgid "濮阳"
+msgstr ""
+
+#: .city[14].title
+msgid "Q"
+msgstr ""
+
+#: .city[14].lists[0]
+msgid "青岛"
+msgstr ""
+
+#: .city[14].lists[1]
+msgid "黔东南"
+msgstr ""
+
+#: .city[14].lists[2]
+msgid "黔南"
+msgstr ""
+
+#: .city[14].lists[3]
+msgid "黔西南"
+msgstr ""
+
+#: .city[14].lists[4]
+msgid "庆阳"
+msgstr ""
+
+#: .city[14].lists[5]
+msgid "清远"
+msgstr ""
+
+#: .city[14].lists[6]
+msgid "秦皇岛"
+msgstr ""
+
+#: .city[14].lists[7]
+msgid "钦州"
+msgstr ""
+
+#: .city[14].lists[8]
+msgid "齐齐哈尔"
+msgstr ""
+
+#: .city[14].lists[9]
+msgid "泉州"
+msgstr ""
+
+#: .city[14].lists[10]
+msgid "曲靖"
+msgstr ""
+
+#: .city[14].lists[11]
+msgid "衢州"
+msgstr ""
+
+#: .city[15].title
+msgid "R"
+msgstr ""
+
+#: .city[15].lists[0]
+msgid "日喀则"
+msgstr ""
+
+#: .city[15].lists[1]
+msgid "日照"
+msgstr ""
+
+#: .city[16].title
+msgid "S"
+msgstr ""
+
+#: .city[16].lists[0]
+msgid "上海"
+msgstr ""
+
+#: .city[16].lists[1]
+msgid "深圳"
+msgstr ""
+
+#: .city[16].lists[2]
+msgid "苏州"
+msgstr ""
+
+#: .city[16].lists[3]
+msgid "沈阳"
+msgstr ""
+
+#: .city[16].lists[4]
+msgid "石家庄"
+msgstr ""
+
+#: .city[16].lists[5]
+msgid "三门峡"
+msgstr ""
+
+#: .city[16].lists[6]
+msgid "三明"
+msgstr ""
+
+#: .city[16].lists[7]
+msgid "三亚"
+msgstr ""
+
+#: .city[16].lists[8]
+msgid "商洛"
+msgstr ""
+
+#: .city[16].lists[9]
+msgid "商丘"
+msgstr ""
+
+#: .city[16].lists[10]
+msgid "上饶"
+msgstr ""
+
+#: .city[16].lists[11]
+msgid "山南"
+msgstr ""
+
+#: .city[16].lists[12]
+msgid "汕头"
+msgstr ""
+
+#: .city[16].lists[13]
+msgid "汕尾"
+msgstr ""
+
+#: .city[16].lists[14]
+msgid "韶关"
+msgstr ""
+
+#: .city[16].lists[15]
+msgid "绍兴"
+msgstr ""
+
+#: .city[16].lists[16]
+msgid "邵阳"
+msgstr ""
+
+#: .city[16].lists[17]
+msgid "十堰"
+msgstr ""
+
+#: .city[16].lists[18]
+msgid "朔州"
+msgstr ""
+
+#: .city[16].lists[19]
+msgid "四平"
+msgstr ""
+
+#: .city[16].lists[20]
+msgid "绥化"
+msgstr ""
+
+#: .city[16].lists[21]
+msgid "遂宁"
+msgstr ""
+
+#: .city[16].lists[22]
+msgid "随州"
+msgstr ""
+
+#: .city[16].lists[23]
+msgid "宿迁"
+msgstr ""
+
+#: .city[16].lists[24]
+msgid "宿州"
+msgstr ""
+
+#: .city[17].title
+msgid "T"
+msgstr ""
+
+#: .city[17].lists[0]
+msgid "天津"
+msgstr ""
+
+#: .city[17].lists[1]
+msgid "太原"
+msgstr ""
+
+#: .city[17].lists[2]
+msgid "泰安"
+msgstr ""
+
+#: .city[17].lists[3]
+msgid "泰州"
+msgstr ""
+
+#: .city[17].lists[4]
+msgid "台州"
+msgstr ""
+
+#: .city[17].lists[5]
+msgid "唐山"
+msgstr ""
+
+#: .city[17].lists[6]
+msgid "天水"
+msgstr ""
+
+#: .city[17].lists[7]
+msgid "铁岭"
+msgstr ""
+
+#: .city[17].lists[8]
+msgid "铜川"
+msgstr ""
+
+#: .city[17].lists[9]
+msgid "通化"
+msgstr ""
+
+#: .city[17].lists[10]
+msgid "通辽"
+msgstr ""
+
+#: .city[17].lists[11]
+msgid "铜陵"
+msgstr ""
+
+#: .city[17].lists[12]
+msgid "铜仁"
+msgstr ""
+
+#: .city[17].lists[13]
+msgid "台湾"
+msgstr ""
+
+#: .city[18].title
+msgid "W"
+msgstr ""
+
+#: .city[18].lists[0]
+msgid "武汉"
+msgstr ""
+
+#: .city[18].lists[1]
+msgid "乌鲁木齐"
+msgstr ""
+
+#: .city[18].lists[2]
+msgid "无锡"
+msgstr ""
+
+#: .city[18].lists[3]
+msgid "威海"
+msgstr ""
+
+#: .city[18].lists[4]
+msgid "潍坊"
+msgstr ""
+
+#: .city[18].lists[5]
+msgid "文山"
+msgstr ""
+
+#: .city[18].lists[6]
+msgid "温州"
+msgstr ""
+
+#: .city[18].lists[7]
+msgid "乌海"
+msgstr ""
+
+#: .city[18].lists[8]
+msgid "芜湖"
+msgstr ""
+
+#: .city[18].lists[9]
+msgid "乌兰察布"
+msgstr ""
+
+#: .city[18].lists[10]
+msgid "武威"
+msgstr ""
+
+#: .city[18].lists[11]
+msgid "梧州"
+msgstr ""
+
+#: .city[19].title
+msgid "X"
+msgstr ""
+
+#: .city[19].lists[0]
+msgid "厦门"
+msgstr ""
+
+#: .city[19].lists[1]
+msgid "西安"
+msgstr ""
+
+#: .city[19].lists[2]
+msgid "西宁"
+msgstr ""
+
+#: .city[19].lists[3]
+msgid "襄樊"
+msgstr ""
+
+#: .city[19].lists[4]
+msgid "湘潭"
+msgstr ""
+
+#: .city[19].lists[5]
+msgid "湘西"
+msgstr ""
+
+#: .city[19].lists[6]
+msgid "咸宁"
+msgstr ""
+
+#: .city[19].lists[7]
+msgid "咸阳"
+msgstr ""
+
+#: .city[19].lists[8]
+msgid "孝感"
+msgstr ""
+
+#: .city[19].lists[9]
+msgid "邢台"
+msgstr ""
+
+#: .city[19].lists[10]
+msgid "新乡"
+msgstr ""
+
+#: .city[19].lists[11]
+msgid "信阳"
+msgstr ""
+
+#: .city[19].lists[12]
+msgid "新余"
+msgstr ""
+
+#: .city[19].lists[13]
+msgid "忻州"
+msgstr ""
+
+#: .city[19].lists[14]
+msgid "西双版纳"
+msgstr ""
+
+#: .city[19].lists[15]
+msgid "宣城"
+msgstr ""
+
+#: .city[19].lists[16]
+msgid "许昌"
+msgstr ""
+
+#: .city[19].lists[17]
+msgid "徐州"
+msgstr ""
+
+#: .city[19].lists[18]
+msgid "香港"
+msgstr ""
+
+#: .city[19].lists[19]
+msgid "锡林郭勒"
+msgstr ""
+
+#: .city[19].lists[20]
+msgid "兴安"
+msgstr ""
+
+#: .city[20].title
+msgid "Y"
+msgstr ""
+
+#: .city[20].lists[0]
+msgid "银川"
+msgstr ""
+
+#: .city[20].lists[1]
+msgid "雅安"
+msgstr ""
+
+#: .city[20].lists[2]
+msgid "延安"
+msgstr ""
+
+#: .city[20].lists[3]
+msgid "延边"
+msgstr ""
+
+#: .city[20].lists[4]
+msgid "盐城"
+msgstr ""
+
+#: .city[20].lists[5]
+msgid "阳江"
+msgstr ""
+
+#: .city[20].lists[6]
+msgid "阳泉"
+msgstr ""
+
+#: .city[20].lists[7]
+msgid "扬州"
+msgstr ""
+
+#: .city[20].lists[8]
+msgid "烟台"
+msgstr ""
+
+#: .city[20].lists[9]
+msgid "宜宾"
+msgstr ""
+
+#: .city[20].lists[10]
+msgid "宜昌"
+msgstr ""
+
+#: .city[20].lists[11]
+msgid "宜春"
+msgstr ""
+
+#: .city[20].lists[12]
+msgid "营口"
+msgstr ""
+
+#: .city[20].lists[13]
+msgid "益阳"
+msgstr ""
+
+#: .city[20].lists[14]
+msgid "永州"
+msgstr ""
+
+#: .city[20].lists[15]
+msgid "岳阳"
+msgstr ""
+
+#: .city[20].lists[16]
+msgid "榆林"
+msgstr ""
+
+#: .city[20].lists[17]
+msgid "运城"
+msgstr ""
+
+#: .city[20].lists[18]
+msgid "云浮"
+msgstr ""
+
+#: .city[20].lists[19]
+msgid "玉树"
+msgstr ""
+
+#: .city[20].lists[20]
+msgid "玉溪"
+msgstr ""
+
+#: .city[20].lists[21]
+msgid "玉林"
+msgstr ""
+
+#: .city[21].title
+msgid "Z"
+msgstr ""
+
+#: .city[21].lists[0]
+msgid "杂多县"
+msgstr ""
+
+#: .city[21].lists[1]
+msgid "赞皇县"
+msgstr ""
+
+#: .city[21].lists[2]
+msgid "枣强县"
+msgstr ""
+
+#: .city[21].lists[3]
+msgid "枣阳市"
+msgstr ""
+
+#: .city[21].lists[4]
+msgid "枣庄"
+msgstr ""
+
+#: .city[21].lists[5]
+msgid "泽库县"
+msgstr ""
+
+#: .city[21].lists[6]
+msgid "增城市"
+msgstr ""
+
+#: .city[21].lists[7]
+msgid "曾都区"
+msgstr ""
+
+#: .city[21].lists[8]
+msgid "泽普县"
+msgstr ""
+
+#: .city[21].lists[9]
+msgid "泽州县"
+msgstr ""
+
+#: .city[21].lists[10]
+msgid "札达县"
+msgstr ""
+
+#: .city[21].lists[11]
+msgid "扎赉特旗"
+msgstr ""
+
+#: .city[21].lists[12]
+msgid "扎兰屯市"
+msgstr ""
+
+#: .city[21].lists[13]
+msgid "扎鲁特旗"
+msgstr ""
+
+#: .city[21].lists[14]
+msgid "扎囊县"
+msgstr ""
+
+#: .city[21].lists[15]
+msgid "张北县"
+msgstr ""
+
+#: .city[21].lists[16]
+msgid "张店区"
+msgstr ""
+
+#: .city[21].lists[17]
+msgid "章贡区"
+msgstr ""
+
+#: .city[21].lists[18]
+msgid "张家港"
+msgstr ""
+
+#: .city[21].lists[19]
+msgid "张家界"
+msgstr ""
+
+#: .city[21].lists[20]
+msgid "张家口"
+msgstr ""
+
+#: .city[21].lists[21]
+msgid "漳平市"
+msgstr ""
+
+#: .city[21].lists[22]
+msgid "漳浦县"
+msgstr ""
+
+#: .city[21].lists[23]
+msgid "章丘市"
+msgstr ""
+
+#: .city[21].lists[24]
+msgid "樟树市"
+msgstr ""
+
+#: .city[21].lists[25]
+msgid "张湾区"
+msgstr ""
+
+#: .city[21].lists[26]
+msgid "彰武县"
+msgstr ""
+
+#: .city[21].lists[27]
+msgid "漳县"
+msgstr ""
+
+#: .city[21].lists[28]
+msgid "张掖"
+msgstr ""
+
+#: .city[21].lists[29]
+msgid "漳州"
+msgstr ""
+
+#: .city[21].lists[30]
+msgid "长子县"
+msgstr ""
+
+#: .city[21].lists[31]
+msgid "湛河区"
+msgstr ""
+
+#: .city[21].lists[32]
+msgid "湛江"
+msgstr ""
+
+#: .city[21].lists[33]
+msgid "站前区"
+msgstr ""
+
+#: .city[21].lists[34]
+msgid "沾益县"
+msgstr ""
+
+#: .city[21].lists[35]
+msgid "诏安县"
+msgstr ""
+
+#: .city[21].lists[36]
+msgid "召陵区"
+msgstr ""
+
+#: .city[21].lists[37]
+msgid "昭平县"
+msgstr ""
+
+#: .city[21].lists[38]
+msgid "肇庆"
+msgstr ""
+
+#: .city[21].lists[39]
+msgid "昭通"
+msgstr ""
+
+#: .city[21].lists[40]
+msgid "赵县"
+msgstr ""
+
+#: .city[21].lists[41]
+msgid "昭阳区"
+msgstr ""
+
+#: .city[21].lists[42]
+msgid "招远市"
+msgstr ""
+
+#: .city[21].lists[43]
+msgid "肇源县"
+msgstr ""
+
+#: .city[21].lists[44]
+msgid "肇州县"
+msgstr ""
+
+#: .city[21].lists[45]
+msgid "柞水县"
+msgstr ""
+
+#: .city[21].lists[46]
+msgid "柘城县"
+msgstr ""
+
+#: .city[21].lists[47]
+msgid "浙江"
+msgstr ""
+
+#: .city[21].lists[48]
+msgid "镇安县"
+msgstr ""
+
+#: .city[21].lists[49]
+msgid "振安区"
+msgstr ""
+
+#: .city[21].lists[50]
+msgid "镇巴县"
+msgstr ""
+
+#: .city[21].lists[51]
+msgid "正安县"
+msgstr ""
+
+#: .city[21].lists[52]
+msgid "正定县"
+msgstr ""
+
+#: .city[21].lists[53]
+msgid "正定新区"
+msgstr ""
+
+#: .city[21].lists[54]
+msgid "正蓝旗"
+msgstr ""
+
+#: .city[21].lists[55]
+msgid "正宁县"
+msgstr ""
+
+#: .city[21].lists[56]
+msgid "蒸湘区"
+msgstr ""
+
+#: .city[21].lists[57]
+msgid "正镶白旗"
+msgstr ""
+
+#: .city[21].lists[58]
+msgid "正阳县"
+msgstr ""
+
+#: .city[21].lists[59]
+msgid "郑州"
+msgstr ""
+
+#: .city[21].lists[60]
+msgid "镇海区"
+msgstr ""
+
+#: .city[21].lists[61]
+msgid "镇江"
+msgstr ""
+
+#: .city[21].lists[62]
+msgid "浈江区"
+msgstr ""
+
+#: .city[21].lists[63]
+msgid "镇康县"
+msgstr ""
+
+#: .city[21].lists[64]
+msgid "镇赉县"
+msgstr ""
+
+#: .city[21].lists[65]
+msgid "镇平县"
+msgstr ""
+
+#: .city[21].lists[66]
+msgid "振兴区"
+msgstr ""
+
+#: .city[21].lists[67]
+msgid "镇雄县"
+msgstr ""
+
+#: .city[21].lists[68]
+msgid "镇原县"
+msgstr ""
+
+#: .city[21].lists[69]
+msgid "志丹县"
+msgstr ""
+
+#: .city[21].lists[70]
+msgid "治多县"
+msgstr ""
+
+#: .city[21].lists[71]
+msgid "芝罘区"
+msgstr ""
+
+#: .city[21].lists[72]
+msgid "枝江市"
+msgstr ""
+
+#: .city[21].lists[73]
+msgid "芷江侗族自治县"
+msgstr ""
+
+#: .city[21].lists[74]
+msgid "织金县"
+msgstr ""
+
+#: .city[21].lists[75]
+msgid "中方县"
+msgstr ""
+
+#: .city[21].lists[76]
+msgid "中江县"
+msgstr ""
+
+#: .city[21].lists[77]
+msgid "钟楼区"
+msgstr ""
+
+#: .city[21].lists[78]
+msgid "中牟县"
+msgstr ""
+
+#: .city[21].lists[79]
+msgid "中宁县"
+msgstr ""
+
+#: .city[21].lists[80]
+msgid "中山"
+msgstr ""
+
+#: .city[21].lists[81]
+msgid "中山区"
+msgstr ""
+
+#: .city[21].lists[82]
+msgid "钟山区"
+msgstr ""
+
+#: .city[21].lists[83]
+msgid "钟山县"
+msgstr ""
+
+#: .city[21].lists[84]
+msgid "中卫"
+msgstr ""
+
+#: .city[21].lists[85]
+msgid "钟祥市"
+msgstr ""
+
+#: .city[21].lists[86]
+msgid "中阳县"
+msgstr ""
+
+#: .city[21].lists[87]
+msgid "中原区"
+msgstr ""
+
+#: .city[21].lists[88]
+msgid "周村区"
+msgstr ""
+
+#: .city[21].lists[89]
+msgid "周口"
+msgstr ""
+
+#: .city[21].lists[90]
+msgid "周宁县"
+msgstr ""
+
+#: .city[21].lists[91]
+msgid "舟曲县"
+msgstr ""
+
+#: .city[21].lists[92]
+msgid "舟山"
+msgstr ""
+
+#: .city[21].lists[93]
+msgid "周至县"
+msgstr ""
+
+#: .city[21].lists[94]
+msgid "庄河市"
+msgstr ""
+
+#: .city[21].lists[95]
+msgid "诸城市"
+msgstr ""
+
+#: .city[21].lists[96]
+msgid "珠海"
+msgstr ""
+
+#: .city[21].lists[97]
+msgid "珠晖区"
+msgstr ""
+
+#: .city[21].lists[98]
+msgid "诸暨市"
+msgstr ""
+
+#: .city[21].lists[99]
+msgid "驻马店"
+msgstr ""
+
+#: .city[21].lists[100]
+msgid "准格尔旗"
+msgstr ""
+
+#: .city[21].lists[101]
+msgid "涿鹿县"
+msgstr ""
+
+#: .city[21].lists[102]
+msgid "卓尼"
+msgstr ""
+
+#: .city[21].lists[103]
+msgid "涿州市"
+msgstr ""
+
+#: .city[21].lists[104]
+msgid "卓资县"
+msgstr ""
+
+#: .city[21].lists[105]
+msgid "珠山区"
+msgstr ""
+
+#: .city[21].lists[106]
+msgid "竹山县"
+msgstr ""
+
+#: .city[21].lists[107]
+msgid "竹溪县"
+msgstr ""
+
+#: .city[21].lists[108]
+msgid "株洲"
+msgstr ""
+
+#: .city[21].lists[109]
+msgid "株洲县"
+msgstr ""
+
+#: .city[21].lists[110]
+msgid "淄博"
+msgstr ""
+
+#: .city[21].lists[111]
+msgid "子长县"
+msgstr ""
+
+#: .city[21].lists[112]
+msgid "淄川区"
+msgstr ""
+
+#: .city[21].lists[113]
+msgid "自贡"
+msgstr ""
+
+#: .city[21].lists[114]
+msgid "秭归县"
+msgstr ""
+
+#: .city[21].lists[115]
+msgid "紫金县"
+msgstr ""
+
+#: .city[21].lists[116]
+msgid "自流井区"
+msgstr ""
+
+#: .city[21].lists[117]
+msgid "资溪县"
+msgstr ""
+
+#: .city[21].lists[118]
+msgid "资兴市"
+msgstr ""
+
+#: .city[21].lists[119]
+msgid "资阳"
+msgstr ""
