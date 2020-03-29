@@ -1,0 +1,7 @@
+这是一个测试项目,使用了Translate ToolKit 2.5.0 API 和 Flask 1.1.1 构建的文档转换PO程序
+
+Translate ToolKit 官方文档 http://docs.translatehouse.org/projects/translate-toolkit/en/latest/api/index.html
+
+目前实现的功能是:
+txt文档转po文件
+json文件转po文件
