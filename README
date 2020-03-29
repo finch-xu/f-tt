@@ -7,9 +7,10 @@ txt文档转po文件
 json文件转po文件
 
 How to use ?
-(1)运行uwsgi:
+(1)安装&运行uwsgi:
 
 ```
+sudo apt-get install uwsgi uwsgi-plugin-python uwsgi-plugin-python3
 sudo uwsgi /home/ubuntu/f-tt/flaskr/uwsgi.ini -d /home/ubuntu/f-tt/flaskr/logs/log.log
 ```
 
