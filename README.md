@@ -9,8 +9,8 @@
 Translate ToolKit 官方文档 http://docs.translatehouse.org/projects/translate-toolkit/en/latest/api/index.html
 
 ### 目前实现的功能是:
-- txt文档转po文件（txt2po）
-- json文件转po文件（json2po）
+- txt文档转po文件（txt2po）（不管内容为何种语言，需要txt文件为utf-8编码）
+- json文件转po文件（json2po）（不管内容为何种语言，需要json文件为utf-8编码）
 - 对po文件进行分析统计（pocount）
 
 
