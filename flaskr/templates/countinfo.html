@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>这里展示PO文件的详细统计信息</title>
+</head>
+<body>
+<h2>PO文件内容统计信息</h2>
+    <table border = 1>
+            <tr>
+                <th>{{filename}}</th>
+                <th> Strings </th>
+                <th>Words (source)</th>
+                <th>Words (translation)</th>
+            </tr>
+        <tr>
+            <td>Translated:  </td>
+            <td> {{state["translated"]}}( {{state["translatedsourcewords"] * 100 / state["total"]}}%)</td>
+                    <td>{{state["translatedsourcewords"]}}( {{state["translatedsourcewords"] * 100 / state["totalsourcewords"]}}%)</td>
+                    <td>{{state["translatedtargetwords"]}}</td>
+        </tr>
+        <tr>
+            <td>Fuzzy:</td>
+            <td>{{state["fuzzy"]}}( {{state["fuzzy"] * 100 / state["total"]}}%)</td>
+                    <td> {{ state["fuzzysourcewords"] }}( {{state["fuzzy"] * 100 / state["totalsourcewords"]}}%) </td>
+            <td>n/a</td>
+        </tr>
+        <tr>
+            <td>untranslated</td>
+            <td>{{ state["untranslated"] }}( {{state["untranslated"] * 100 / state["total"]}}%)</td>
+                    <td>{{ state["untranslatedsourcewords"]}}( {{state["untranslatedsourcewords"] * 100 / state["totalsourcewords"]}}%)</td>
+                    <td>n/a</td>
+        </tr>
+        <tr>
+            <td>total</td>
+            <td>{{state["total"]}}</td>
+                    <td>{{state["totalsourcewords"]}}</td>
+                    <td>{{state["translatedtargetwords"]}}</td>
+        </tr>
+    </table>
+
+<a href="{{ url_for('manage_file') }}">返回管理页面</a>
+</body>
+</html>
