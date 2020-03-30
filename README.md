@@ -23,7 +23,8 @@ sudo uwsgi /home/ubuntu/f-tt/flaskr/uwsgi.ini -d /home/ubuntu/f-tt/flaskr/logs/l
 ```
 
 uwsgi.ini文件在项目的 f-tt/flaskr/uwsgi.ini
-(杀死uwsgi的命令是 sudo pkill -f uwsgi -9)
+(杀死uwsgi的命令是 sudo pkill -f uwsgi -9)</br>
+
 (2)修改nginx配置文件
 
 ```
@@ -42,5 +43,6 @@ server {
 	}
 
 ```
-然后重启nginx即可.
+然后重启nginx即可.</br>
+
 (3)这时候输入地址:5000回车就能看到你的网站了.
