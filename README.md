@@ -18,9 +18,11 @@ Translate ToolKit 官方文档 http://docs.translatehouse.org/projects/translate
 (1)安装&运行uwsgi:
 
 (```)
+
 sudo apt-get install uwsgi uwsgi-plugin-python uwsgi-plugin-python3
 sudo uwsgi /home/ubuntu/f-tt/flaskr/uwsgi.ini -d /home/ubuntu/f-tt/flaskr/logs/log.log
 (```)
+
 uwsgi.ini文件在项目的 f-tt/flaskr/uwsgi.ini
 (杀死uwsgi的命令是 sudo pkill -f uwsgi -9)
 (2)修改nginx配置文件
