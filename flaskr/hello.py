@@ -10,6 +10,7 @@ from datetime import datetime
 
 from flask import Flask, request, flash, redirect, url_for, render_template, send_from_directory
 from translate.convert import txt2po, json2po, html2po
+from translate.tools import pocount
 from werkzeug.utils import secure_filename
 from pypinyin import lazy_pinyin
 
@@ -91,13 +92,30 @@ def convert_file(filename):
     return redirect(url_for('manage_file'))
 
 
-
-
-
-#下载动作
+#下载文件的动作
 @app.route('/download/<path:filename>')
 def download(filename):
-    return send_from_directory(r"convert", filename=filename, as_attachment=True)
+    #通过文件拓展名去不通的文件夹下载
+    key = os.path.splitext(filename)[-1][1:]
+    if key == 'po':
+        return send_from_directory(r"convert", filename=filename, as_attachment=True)
+    return send_from_directory(r"uploads", filename=filename, as_attachment=True)
+
+
+#统计功能
+@app.route('/count/<path:filename>')
+def count_file(filename):
+    countfilename = os.path.join(app.config['CONVERT_FOLDER'],filename)
+    state = pocount.calcstats_old(countfilename)
+    return render_template("countinfo.html", state=state, filename=filename)
+
+def percent(denominator, devisor):
+    if devisor == 0:
+        return 0
+    else:
+        return denominator * 100 / devisor
+
+
 
 #运行项目
 if __name__=="__main__":

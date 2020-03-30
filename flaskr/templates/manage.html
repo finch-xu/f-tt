@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <h1>上传文件！（暂时支持txt/json/html）</h1>
+    <h1>上传文件！（暂时仅支持txt/json）</h1>
     <form action="{{ url_for('upload_file') }}" method=post enctype=multipart/form-data>
       <input type="file" name="file">
       <input type="submit" value="Upload">
@@ -19,7 +19,7 @@
         {% for filename in files_list %}
             <tr>
                 <th> {{ filename }} </th>
-                <td> <a href="#">下载</a> </td>
+                <td> <a href="{{ url_for('download',_external=True,filename=filename) }}">下载</a> </td>
                 <td> 删除 </td>
                 <td> <a href="{{ url_for('convert_file',_external=True,filename=filename) }}">转换成.po文件</a> </td>
             </tr>
@@ -32,8 +32,11 @@
                 <th> {{ cname }} </th>
                 <td> <a href="{{ url_for('download',_external=True,filename=cname) }}">下载</a> </td>
                 <td> <a href="#">删除</a> </td>
+                <td> <a href="{{ url_for('count_file',_external=True,filename=cname) }}">查看PO统计信息</a> </td>
             </tr>
          {% endfor %}
     </table>
+
+
 </body>
 </html>
